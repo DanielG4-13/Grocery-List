@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: brown;
+}
+h2{
+    background-color: beige;
+    margin: 20px;
+    padding: 6px;
+    border: 1px solid black;
+    display: inline-flexbox;
+}
+.food{
+    display: inline-block;
+    inline-size: 200px;
+    padding: 20px;
+}
+img{
+    display: inline-block;
+    inline-size: 200px;
+    padding: 20px;
+}
